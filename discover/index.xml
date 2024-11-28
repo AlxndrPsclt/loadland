@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Discovers on LOAD LAND</title>
-    <link>http://localhost:1313/discover/</link>
+    <link>https://landing.load.international/discover/</link>
     <description>Recent content in Discovers on LOAD LAND</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 26 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/discover/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://landing.load.international/discover/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is LOAD?</title>
-      <link>http://localhost:1313/discover/001-what-is-load/</link>
+      <link>https://landing.load.international/discover/001-what-is-load/</link>
       <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/discover/001-what-is-load/</guid>
+      <guid>https://landing.load.international/discover/001-what-is-load/</guid>
       <description>Here&amp;rsquo;s an example blog post.&#xA;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</description>
     </item>
     <item>
       <title>I am an organiser</title>
-      <link>http://localhost:1313/discover/002-i-am-an-organiser/</link>
+      <link>https://landing.load.international/discover/002-i-am-an-organiser/</link>
       <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/discover/002-i-am-an-organiser/</guid>
+      <guid>https://landing.load.international/discover/002-i-am-an-organiser/</guid>
       <description>Here&amp;rsquo;s an example blog post.&#xA;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</description>
     </item>
     <item>
       <title>I am a festival fan</title>
-      <link>http://localhost:1313/discover/003-i-am-a-festival-fan/</link>
+      <link>https://landing.load.international/discover/003-i-am-a-festival-fan/</link>
       <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/discover/003-i-am-a-festival-fan/</guid>
+      <guid>https://landing.load.international/discover/003-i-am-a-festival-fan/</guid>
       <description>Here&amp;rsquo;s an example blog post.&#xA;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</description>
     </item>
     <item>
       <title>Find us here</title>
-      <link>http://localhost:1313/discover/004-find-us-here/</link>
+      <link>https://landing.load.international/discover/004-find-us-here/</link>
       <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/discover/004-find-us-here/</guid>
+      <guid>https://landing.load.international/discover/004-find-us-here/</guid>
       <description>Here&amp;rsquo;s an example blog post.&#xA;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</description>
     </item>
     <item>
       <title>Let&#39;s talk about your event</title>
-      <link>http://localhost:1313/discover/005-lets-talk-about-your-event/</link>
+      <link>https://landing.load.international/discover/005-lets-talk-about-your-event/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/discover/005-lets-talk-about-your-event/</guid>
+      <guid>https://landing.load.international/discover/005-lets-talk-about-your-event/</guid>
       <description>Here&amp;rsquo;s an example blog post.&#xA;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</description>
     </item>
   </channel>
